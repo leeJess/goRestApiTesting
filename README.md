@@ -8,7 +8,7 @@ Follow the instructions [here](https://docs.cypress.io/guides/getting-started/in
 The next step is to clone this repo. You can either use git, the 'download zip' function on GitHub. You should then be able to run cypress on this and get our basic setup. The Cypress window will ask you to open a directory - using the file browser, select the directory where you stored the code from this repository.
 
 ## How to run the test?
-you may simply input the command 
+Go into cypress fold and you may simply input the terminal 
 ```
 npx cypress open
 ```
